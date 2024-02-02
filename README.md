@@ -2,7 +2,7 @@
 ALGOS DIVERS pour tests ou training
 ___
 
-##CLOSEST ZERO
+## CLOSEST ZERO
 
 A partir d'une liste de double (positifs et négatifs) il faut retourner la valeur qui est la +proche de zéro.
 Si deux valeurs sont equidistantes de 0, on retournera la valeur positive.
