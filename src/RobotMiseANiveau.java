@@ -2,7 +2,7 @@ import java.security.spec.RSAOtherPrimeInfo;
 import java.util.Arrays;
 import java.util.List;
 
-class Player {
+class RobotMiseANiveau {
 
     public static String solve(int clawPos, int[] boxes, boolean boxInClaw) {
         // Write your code here
